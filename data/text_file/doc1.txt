@@ -1,0 +1,13 @@
+Basic of Python Programming Language
+
+    Python is a popular, general-purpose programming language known for its simple, readable syntax that emphasizes productivity and makes it beginner-friendly. Created by Guido van Rossum in the late 1980s and early 1990s, it has become one of the most widely used languages in the world. 
+
+Key Features of Python:
+
+1. Easy to Learn and Use: Python's syntax uses plain English keywords and simple structures, making it easier to learn than many other languages like C, C++, or Java.
+2. Interpreted Language: Python code is processed at runtime by an interpreter, so you don't need to compile it first. This makes debugging easier.
+3. Free and Open-Source: The Python interpreter and its extensive standard library are freely available for all major platforms (Windows, macOS, Linux).
+4. Object-Oriented (OOP): Python supports object-oriented programming concepts, allowing for the use of classes and objects to create reusable code.
+5. Extensive Standard Library: Python comes with a massive collection of modules and functions, allowing you to achieve a lot without writing code from scratch.
+6. Dynamically Typed: You don't need to declare variable types explicitly in Python; the type is determined automatically at runtime.
+

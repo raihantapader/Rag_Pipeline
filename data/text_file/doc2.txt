@@ -1,0 +1,6 @@
+Machine Learning Basics
+
+    Machine Learning (ML) basics involve teaching computers to learn patterns from data to make predictions or decisions without explicit programming, using key types like Supervised (labeled data), 
+    Unsupervised (finding patterns in unlabeled data), and Reinforcement Learning (trial-and-error for rewards). The core process involves data preparation, algorithm training (representation, optimization, evaluation), 
+    and model testing, with goals like generalization to real-world data, leading to applications from spam filters to recommendation systems. 
+
